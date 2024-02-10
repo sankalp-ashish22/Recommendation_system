@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@jupyterlab/nbformat": "^4.0.11",
+    "axios": "^1.6.7",
+    "jupyter": "^0.0.0",
+    "nodemon": "^3.0.3",
+    "python-shell": "^5.0.0"
+  }
+}
